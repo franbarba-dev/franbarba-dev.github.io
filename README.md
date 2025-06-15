@@ -1,90 +1,66 @@
-¡Hola! Soy Francisco Barba
-💻 Estudiante de 2º DAW | Desarrollador Web Junior en formación
-🚀 Sobre mí
+# 👋 ¡Hola! Soy **Francisco Barba**
 
-Apasionado por el desarrollo web y backend. Actualmente especializándome en Java con Spring Boot y frontend con HTML, CSS y JavaScript. Creo en aprender haciendo, escribiendo código limpio y aplicando buenas prácticas.
-🛠 Tecnologías y Herramientas
+### 💻 Estudiante de 2º DAW | Desarrollador Web Junior en formación
 
-    Lenguajes:
-    Java Java,
-    JavaScript JavaScript,
-    HTML5 HTML5,
-    CSS3 CSS3
+---
 
-    Frameworks:
-    Spring Boot Spring Boot,
-    Thymeleaf Thymeleaf
+## 🚀 Sobre mí
 
-    Bases de datos:
-    MySQL MySQL
+Apasionado por el desarrollo web y backend. Actualmente especializándome en **Java con Spring Boot** y frontend con **HTML, CSS y JavaScript**. Creo en aprender haciendo, escribiendo código limpio y aplicando buenas prácticas.
 
-    Herramientas:
-    Git Git,
-    GitHub GitHub,
-    VS Code VS Code,
-    IntelliJ IDEA IntelliJ IDEA
+---
 
-📚 En aprendizaje continuo
+## 🛠 Tecnologías y Herramientas
 
-    Seguridad web con Spring Security y JWT
-    Diseño UX/UI moderno y accesible
-    Docker y despliegue en la nube
+- **Lenguajes:**  
+  Java ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white),  
+  JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black),  
+  HTML5 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white),  
+  CSS3 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-💼 Proyectos destacados
-Proyecto 	Tecnologías 	Descripción
-Gestor de tareas 	Java Java, Spring Boot Spring Boot, Thymeleaf Thymeleaf 	CRUD con autenticación y roles
-Portafolio Web 	HTML5 HTML5, CSS3 CSS3, JavaScript JavaScript 	Página personal moderna y responsiva
-Ahorcado JS 	JavaScript JavaScript 	Juego clásico para practicar lógica y DOM
-📫 Contacto
+- **Frameworks:**  
+  Spring Boot ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white),  
+  Thymeleaf ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)
 
-    LinkedIn
-    📧 3cafran@gmail.com
+- **Bases de datos:**  
+  MySQL ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-    "El mejor código no es el más complejo, sino el que cualquiera puede entender." 💡
+- **Herramientas:**  
+  Git ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white),  
+  GitHub ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white),  
+  VS Code ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white),  
+  IntelliJ IDEA ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+
+---
+
+## 📚 En aprendizaje continuo
+
+- Seguridad web con Spring Security y JWT  
+- Diseño UX/UI moderno y accesible  
+- Docker y despliegue en la nube  
+
+---
+
+## 💼 Proyectos destacados
+
+| Proyecto                                                         | Tecnologías                                                                                   | Descripción                                      |
+|-----------------------------------------------------------------|----------------------------------------------------------------------------------------------|------------------------------------------------|
+| [Gestor de tareas](https://github.com/tu-usuario/gestor-tareas) | Java ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white), Spring Boot ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white), Thymeleaf ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white) | CRUD con autenticación y roles                  |
+| [Portafolio Web](https://github.com/tu-usuario/portfolio)        | HTML5 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white), CSS3 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white), JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | Página personal moderna y responsiva            |
+| [Ahorcado JS](https://github.com/tu-usuario/ahorcado-js)         | JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)             | Juego clásico para practicar lógica y DOM       |
+
+---
+
+## 📫 Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/tu-perfil-linkedin)  
+- 📧 3cafran@gmail.com  
+
+---
+
+> _"El mejor código no es el más complejo, sino el que cualquiera puede entender."_ 💡
+
+---
 
 ¡Gracias por visitar mi perfil! Estoy abierto a conectar y aprender juntos.
-Popular repositories Loading
 
-    franbarba-dev.github.io Public
-
-    HTML
-    franbarba-dev Public
-
-7 contributions in the last year
-Contribution Graph
-Day of Week 	June Jun 	July Jul 	August Aug 	September Sep 	October Oct 	November Nov 	December Dec 	January Jan 	February Feb 	March Mar 	April Apr 	May May 	June Jun
-Sunday Sun 																																																					
-Monday Mon 																																																					
-Tuesday Tue 																																																					
-Wednesday Wed 																																																					
-Thursday Thu 																																																					
-Friday Fri 																																																					
-Saturday Sat 																																																					
-Learn how we count contributions
-Less
-No contributions.
-Low contributions.
-Medium-low contributions.
-Medium-high contributions.
-High contributions.
-More
-Contribution activity
-June 2025
-
-    franbarba-dev/franbarba-dev 2 commits
-    franbarba-dev/franbarba-dev.github.io 2 commits
-
-Created their first repository
-Jun 15
-Congratulations on your first repository!
-First repository
-franbarba-dev.github.io Public
-
-    franbarba-dev/franbarba-dev
-    This contribution was made on Jun 15
-    Jun 15
-
-Joined GitHub
-Joined GitHub!
-Joined GitHub
-on June 15, 2025
